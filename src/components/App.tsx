@@ -1,2 +1,1 @@
-import '../styles/module.css'
-const App = () => <button>y-CC</button>
+const App = () => <button>cc deux y</button>
